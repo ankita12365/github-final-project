@@ -15,3 +15,4 @@ $$\text{Simple Interest} = \frac{\text{Principal} \times \text{Rate} \times \tex
 
 ## License
 Apache 2.0
+Fixing typo
